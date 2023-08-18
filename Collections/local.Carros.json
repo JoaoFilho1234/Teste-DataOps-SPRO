@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64ddccec93e2adb4a70d3a41"
+  },
+  "Carros": "Onix",
+  "Cor": "Prata",
+  "Montadora": "Chevrolet"
+},
+{
+  "_id": {
+    "$oid": "64ddccec93e2adb4a70d3a42"
+  },
+  "Carros": "Polo",
+  "Cor": "Branco",
+  "Montadora": "Volkswagen"
+},
+{
+  "_id": {
+    "$oid": "64ddccec93e2adb4a70d3a43"
+  },
+  "Carros": "Sandero",
+  "Cor": "Prata",
+  "Montadora": "Renault"
+},
+{
+  "_id": {
+    "$oid": "64ddccec93e2adb4a70d3a44"
+  },
+  "Carros": "Fiesta",
+  "Cor": "Vermelho",
+  "Montadora": "Ford"
+},
+{
+  "_id": {
+    "$oid": "64ddccec93e2adb4a70d3a45"
+  },
+  "Carros": "City",
+  "Cor": "Preto",
+  "Montadora": "Honda"
+}]
